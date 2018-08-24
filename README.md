@@ -63,7 +63,7 @@ I use GitHub along with [GitFlow](https://www.atlassian.com/git/tutorials/compar
 ### Other tools
 
 - **Postman** - Testing and Documenting my APIs
-- **Sketch + Adobe PS** - Design & Image editing
+- **Sketch + Adobe Photoshop** - Design & Image editing
 - **Sourctree** - Git GUI
 - **Jenkins** - Continuous Deployment
 - **FileZilla** - FTP Client
