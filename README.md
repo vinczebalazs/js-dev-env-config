@@ -22,6 +22,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 - platformio-ide-terminal
 
 *Command to install all packages listed above:*
+
 `apm install atom-easy-jsdoc atom-material-syntax atom-material-ui busy-signal file-icons intentions language-vue linter linter-eslint linter-ui-default platformio-ide-terminal`
 
  ### Code style
