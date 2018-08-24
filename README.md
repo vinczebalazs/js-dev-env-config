@@ -13,6 +13,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 - atom-material-syntax
 - atom-material-ui
 - busy-signal
+- emmet
 - file-icons
 - intentions
 - language-vue
@@ -23,7 +24,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 
 *Command to install all packages listed above:*
 
-`apm install atom-easy-jsdoc atom-material-syntax atom-material-ui busy-signal file-icons intentions language-vue linter linter-eslint linter-ui-default platformio-ide-terminal`
+`apm install atom-easy-jsdoc atom-material-syntax atom-material-ui busy-signal emmet file-icons intentions language-vue linter linter-eslint linter-ui-default platformio-ide-terminal`
 
  ### Code style
 
