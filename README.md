@@ -7,6 +7,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 **I use Atom on macOS, with the below settings:**
 
 - Soft Wrap At Preferred Line Length: 100 (to match **Prettier** config)
+- UI & Syntax Theme: Atom Material
 
  **Plugins used:**
 - atom-easy-jsdoc
