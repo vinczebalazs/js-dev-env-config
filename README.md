@@ -4,11 +4,11 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 
 ### Code editor
 
-**I use Atom on macOS.**
+**I use Atom on macOS, with the below settings:**
 
-***Soft Wrap At Preferred Line Length*** : 100 (to match **Prettier** config)
+- Soft Wrap At Preferred Line Length: 100 (to match **Prettier** config)
 
- Plugins used:
+ **Plugins used:**
 - atom-easy-jsdoc
 - atom-material-syntax
 - atom-material-ui
@@ -21,6 +21,12 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 - linter-eslint
 - linter-ui-default
 - platformio-ide-terminal
+
+**linter-eslint Package Settings:**
+- Fix errors on save: On
+- Lint HTML files: On
+- Use Global ESLint installation: On
+- Global Node Installation Path: _/Users/USERNAME/.config/yarn/global_ (required if using yarn instead of npm)
 
 *Command to install all packages listed above:*
 
@@ -36,6 +42,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
  **I use yarn over npm** (mostly due to it's superior performance).
 - @vue/cli
 - eslint
+- eslint-config-airbnb-base
 - eslint-config-prettier
 - eslint-plugin-import
 - eslint-plugin-prettier
@@ -44,7 +51,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 
 *Command to install all packages listed above:*
 
-`yarn global add @vue/cli eslint eslint-config-prettier eslint-plugin-import eslint-plugin-prettier jsdoc prettier`
+`yarn global add @vue/cli eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import eslint-plugin-prettier jsdoc prettier`
 
 ### Vue
 - I use **SCSS** as my **CSS** pre-processor.
@@ -65,6 +72,6 @@ I use GitHub along with [GitFlow](https://www.atlassian.com/git/tutorials/compar
 
 - **Postman** - Testing and Documenting my APIs
 - **Sketch + Adobe Photoshop** - Design & Image editing
-- **Sourctree** - Git GUI
+- **Sourcetree** - Git GUI
 - **Jenkins** - Continuous Deployment
 - **FileZilla** - FTP Client
