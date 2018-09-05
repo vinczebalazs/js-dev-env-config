@@ -22,6 +22,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 - linter-eslint
 - linter-ui-default
 - platformio-ide-terminal
+- sublime style column selection
 
 **linter-eslint Package Settings:**
 - Fix errors on save: On
