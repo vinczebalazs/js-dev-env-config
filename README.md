@@ -22,7 +22,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 - linter-eslint
 - linter-ui-default
 - platformio-ide-terminal
-- sublime style column selection
+- sublime-style-column-selection
 
 **linter-eslint Package Settings:**
 - Fix errors on save: On
@@ -32,7 +32,7 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 
 *Command to install all packages listed above:*
 
-`apm install atom-easy-jsdoc atom-material-syntax atom-material-ui busy-signal emmet file-icons intentions language-vue linter linter-eslint linter-ui-default platformio-ide-terminal`
+`apm install atom-easy-jsdoc atom-material-syntax atom-material-ui busy-signal emmet file-icons intentions language-vue linter linter-eslint linter-ui-default platformio-ide-terminal sublime-style-column-selection`
 
  ### Code style
 
