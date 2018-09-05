@@ -49,10 +49,11 @@ I use **Vue** for my front-end development, while I rely on **MongoDB, Express &
 - eslint-plugin-prettier
 - jsdoc
 - prettier
+- nodemon
 
 *Command to install all packages listed above:*
 
-`yarn global add @vue/cli eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import eslint-plugin-prettier jsdoc prettier`
+`yarn global add @vue/cli eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import eslint-plugin-prettier jsdoc prettier nodemon`
 
 ### Vue
 - I use **SCSS** as my **CSS** pre-processor.
